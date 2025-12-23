@@ -1,4 +1,4 @@
-# London Housing Market Data
+# London Housing Market Data Report
 
 A Power BI dashboard for exploring and analyzing the London housing market, focusing on property prices, influential features, school information, and regional trends.
 
@@ -18,7 +18,6 @@ A Power BI dashboard for exploring and analyzing the London housing market, focu
 - [Data Sources](#data-sources)
 - [Key Insights](#key-insights)
 - [Author](#author)
-- [License](#license)
 
 ---
 
