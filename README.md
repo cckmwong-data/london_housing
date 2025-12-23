@@ -71,7 +71,7 @@ This Power BI report provides a comprehensive analysis of the London housing mar
 
 ## Data Sources
 
-- **Synthetic housing data** generated for analysis and demonstration purposes
+- Synthetic housing data generated for analysis and demonstration purposes
 - Synthetic Ofsted school ratings and metrics
 - Simulated national housing price statistics
 
