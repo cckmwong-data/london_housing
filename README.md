@@ -47,9 +47,9 @@ This Power BI report provides a comprehensive analysis of the London housing mar
 
 ## Screenshots
 
-| Market Summary | Analysis by Feature | District Listings | School Analytics |
+| Dashboard | Listings | Schools Analystics | Feature-Price Analysis |
 |:--:|:--:|:--:|:--:|
-| ![](screenshots/summary.jpg) | ![](screenshots/analysis.jpg) | ![](screenshots/listings.jpg) | ![](screenshots/schools.jpg) |
+| ![](images/dashboard.png) | ![](images/listings.png) | ![](images/schools.png) | ![](images/analysis.png) |
 
 ---
 
