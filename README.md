@@ -9,18 +9,6 @@ A Power BI dashboard for exploring and analyzing the London housing market, focu
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Usage](#usage)
-- [Data Sources](#data-sources)
-- [Key Insights](#key-insights)
-- [Author](#author)
-
----
-
 ## Overview
 
 This Power BI report provides a comprehensive analysis of the London housing market, enabling users to:
@@ -52,7 +40,7 @@ This Power BI report provides a comprehensive analysis of the London housing mar
 
 ---
 
-## Usage
+## Steps
 
 1. **Access Power BI report online** [here](https://app.powerbi.com/view?r=eyJrIjoiYzdkNTE2YTctMTAyMy00NWIzLWE5ZmEtZDIxYjJkNzNkMGVlIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
 2. **Navigate via the sidebar or the homepage** to explore:
