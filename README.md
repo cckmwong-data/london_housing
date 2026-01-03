@@ -40,7 +40,7 @@ This Power BI report provides a comprehensive analysis of the London housing mar
 
 ---
 
-## Steps
+## Workflow Overview
 
 1. **Access Power BI report online** [here](https://app.powerbi.com/view?r=eyJrIjoiYzdkNTE2YTctMTAyMy00NWIzLWE5ZmEtZDIxYjJkNzNkMGVlIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
 2. **Navigate via the sidebar or the homepage** to explore:
