@@ -41,9 +41,14 @@ A Power BI dashboard for exploring and analyzing the London housing market, focu
 
 The report comprises four primary sections as below.
 
-| Dashboard | Listings | Schools Analystics | Feature-Price Analysis |
-|:--:|:--:|:--:|:--:|
-| ![](images/dashboard.png) | ![](images/listings.png) | ![](images/schools.png) | ![](images/analysis.png) |
+### Dashboard 
+![](images/dashboard.png)
+### Listings
+![](images/listings.png)
+### Schools Analystics
+![](images/schools.png)
+### Feature-Price Analysis
+![](images/analysis.png)
 
 ---
 
@@ -60,7 +65,8 @@ The report comprises four primary sections as below.
    - Filter by year, district, home type, or features.
    - Use the outlier exclusion toggle for robust statistics.
    - Ask AI-powered questions for instant insights.
-
+     
+![](images/filter_pane.png)
 ---
 
 ## Data Sources
