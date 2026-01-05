@@ -1,6 +1,10 @@
 # London Housing Market Data Report
+---
 
-A Power BI dashboard for exploring and analyzing the London housing market, focusing on property prices, influential features, school information, and regional trends.
+## Problem Statement
+This is a report designed for London Real Insights Ltd., a real estate agency based in London. 
+
+It provides management with a comprehensive view of property listings across various districts in the city. Users can filter listings based on specific criteria, including property price, house features, and schools in the neighborhood. Additionally, the report shows how asking price vary across different property features and also highlights key factors which influence home valuations in London. 
 
 ---
 
@@ -11,7 +15,8 @@ A Power BI dashboard for exploring and analyzing the London housing market, focu
 
 ## Overview
 
-This Power BI report provides a comprehensive analysis of the London housing market, enabling users to:
+A Power BI dashboard for exploring and analyzing the London housing market, focusing on property prices, influential features, school information, and regional trends, enabling users to:
+
 - Explore asking and sold prices by district, year, and property features.
 - Identify key drivers of property prices.
 - Analyze housing trends in relation to school quality and location.
@@ -32,7 +37,9 @@ This Power BI report provides a comprehensive analysis of the London housing mar
 
 ---
 
-## Screenshots
+## Screenshots of the Report
+
+The report comprises four primary sections as below.
 
 | Dashboard | Listings | Schools Analystics | Feature-Price Analysis |
 |:--:|:--:|:--:|:--:|
@@ -44,7 +51,7 @@ This Power BI report provides a comprehensive analysis of the London housing mar
 
 1. **Access Power BI report online** [here](https://app.powerbi.com/view?r=eyJrIjoiYzdkNTE2YTctMTAyMy00NWIzLWE5ZmEtZDIxYjJkNzNkMGVlIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
 2. **Navigate via the sidebar or the homepage** to explore:
-   - **Summary**: Market snapshot and key figures.
+   - **Summary (Dashboard)**: Market snapshot and key figures.
    - **Listings**: Average prices, property locations, and feature word clouds.
    - **Schools**: Listings by school rating, size, and proximity.
    - **Market**: Trends of the property price by districts and comparison to the national median.
