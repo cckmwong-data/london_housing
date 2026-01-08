@@ -24,6 +24,17 @@ A Power BI dashboard for exploring and analyzing the London housing market, focu
 
 ---
 
+## Key Insights
+
+- **Living area**, **year built** and **number of patios/porches** are strong drivers of asking price.
+- Older homes (built ≤1957) can command premiums in some segments.
+- School quality and proximity are significant for certain districts, such as Harrow and Kingston upon Thames.
+- Districts like Kensington and Chelsea, Westminster, and City of London have the highest average asking prices.
+- Historical price trends reveal steady growth with cyclical fluctuations.
+
+---
+
+
 ## Features
 
 - **Dashboard**: View total listings, median asking prices, average property sizes, and school ratings.
@@ -77,16 +88,6 @@ The report comprises four primary sections as below.
 
 > **Note:**  
 > All datasets used in this project are synthetic, created to mimic real-world patterns for educational and analytical demonstration only. No real personal, commercial, or sensitive data is included.
-
----
-
-## Key Insights
-
-- **Living area**, **year built** and **number of patios/porches** are strong drivers of asking price.
-- Older homes (built ≤1957) can command premiums in some segments.
-- School quality and proximity are significant for certain districts, such as Harrow and Kingston upon Thames.
-- Districts like Kensington and Chelsea, Westminster, and City of London have the highest average asking prices.
-- Historical price trends reveal steady growth with cyclical fluctuations.
 
 ---
 
