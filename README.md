@@ -13,6 +13,8 @@ An interactive Power BI dashboard for analyzing the London housing market, allow
 - Developed a *star schema* with fact and dimension tables.
 - Managed relationships, cardinality, and DAX calculations for analytics.
 
+<img src="./images/star.png" width="" height="500">
+
 **Analytical Insight & Storytelling**
 - Identified price drivers using Key Influencers and feature-based segmentation.
 - Modeled YoY (year-on-year) and QoQ (quarter-on-quarter) pricing trends and compared districts against national medians.
@@ -61,8 +63,6 @@ It provides management with a comprehensive view of property listings across var
 
 The report comprises four primary sections as below.
 
-### Star Schema
-![](images/star.png)
 ### Dashboard 
 ![](images/dashboard.png)
 ### Listings
@@ -93,12 +93,12 @@ The report comprises four primary sections as below.
 
 ## Data Sources
 
+> **Note:**  
+> All datasets used in this project are synthetic, created to mimic real-world patterns for educational and analytical demonstration only. No real personal, commercial, or sensitive data is included.
+
 - Synthetic housing data generated for analysis and demonstration purposes
 - Synthetic Ofsted school ratings and metrics
 - Simulated national housing price statistics
-
-> **Note:**  
-> All datasets used in this project are synthetic, created to mimic real-world patterns for educational and analytical demonstration only. No real personal, commercial, or sensitive data is included.
 
 ---
 
