@@ -5,24 +5,26 @@ An interactive Power BI dashboard for analyzing the London housing market, allow
 ---
 
 ## Skills Demonstrated
-**Business Intelligence & Visualization**
+✔ **Business Intelligence & Visualization**
 - Designed multi-page dashboards with clear navigation, drillthrough, and interactive filtering.
 - Built geospatial maps, heatmaps, word clouds, and trend analyses to support market insights.
 
-**Data Modeling & Semantic Layer**
+✔ **Data Modeling & Semantic Layer**
 - Developed a *star schema* with fact and dimension tables.
 - Managed relationships, cardinality, and DAX calculations for analytics.
 
 <img src="./images/star.png" width="" height="500">
 
-**Analytical Insight & Storytelling**
+✔ **Analytical Insight & Storytelling**
 - Identified price drivers using Key Influencers and feature-based segmentation.
 - Modeled YoY (year-on-year) and QoQ (quarter-on-quarter) pricing trends and compared districts against national medians.
 - Highlighted school rating effects and district-level valuation behaviors.
 
-**User Experience & Interaction**
-- Implemented a comprehensive filter pane with numeric sliders, dropdowns, and school-related filters.
+✔ **User Experience & Interaction**
 - Enabled drillthrough, hover tooltips, and Q&A natural language queries.
+- Implemented a comprehensive filter pane with numeric sliders, dropdowns, and school-related filters.
+
+<img src="./images/filter_pane.png" width="" height="500">
 
 ---
 
@@ -87,8 +89,7 @@ The report comprises four primary sections as below.
    - Filter by year, district, home type, or features.
    - Use the outlier exclusion toggle for robust statistics.
    - Ask AI-powered questions for instant insights.
-     
-![](images/filter_pane.png)
+   
 ---
 
 ## Data Sources
