@@ -61,6 +61,8 @@ It provides management with a comprehensive view of property listings across var
 
 The report comprises four primary sections as below.
 
+### Star Schema
+![](images/star.png)
 ### Dashboard 
 ![](images/dashboard.png)
 ### Listings
