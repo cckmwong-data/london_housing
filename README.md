@@ -6,7 +6,7 @@ An interactive Power BI dashboard for analyzing the London housing market, allow
 
 ## Skills Demonstrated
 **Business Intelligence & Visualization**
-- Designed multi-page dashboards with clear navigation, drill-through, and interactive filtering.
+- Designed multi-page dashboards with clear navigation, drillthrough, and interactive filtering.
 - Built geospatial maps, heatmaps, word clouds, and trend analyses to support market insights.
 
 **Data Modeling & Semantic Layer**
@@ -25,34 +25,23 @@ An interactive Power BI dashboard for analyzing the London housing market, allow
 ---
 
 ## Use Case
+> **Disclaimer:**  
+> *This dashboard uses synthetic data. All statistics, trends, and insights are for demonstration and educational purposes only and do not reflect actual London housing market conditions.*
+
 This is a report designed for London Real Insights Ltd., a real estate agency based in London. 
 
-It provides management with a comprehensive view of property listings across various districts in the city. Users can filter listings based on specific criteria, including property price, house features, and schools in the neighborhood. Additionally, the report shows how asking price vary across different property features and also highlights key factors which influence home valuations in London. 
+It provides management with a comprehensive view of property listings across various districts in the city. Users can filter listings based on specific criteria, including property price, house features, and schools in the neighborhood. Additionally, the report shows how asking prices vary across different property features and also highlights key factors which influence home valuations in London. 
 
 ---
 
 ## Key Insights
 
-- **Living area**, **year built** and **number of patios/porches** are strong drivers of asking price.
+- **Living area**, **year built** and **number of patios/porches** are strong drivers of asking prices.
 - Older homes (built ≤1957) can command premiums in some segments.
 - School quality and proximity are significant for certain districts, such as Harrow and Kingston upon Thames.
 - Districts like Kensington and Chelsea, Westminster, and City of London have the highest average asking prices.
 - Historical price trends reveal steady growth with cyclical fluctuations.
   
----
-
-## Overview
-
-> **Disclaimer:**  
-> *This dashboard uses synthetic data. All statistics, trends, and insights are for demonstration and educational purposes only and do not reflect actual London housing market conditions.*
-
-A Power BI dashboard for exploring and analyzing the London housing market, focusing on property prices, influential features, school information, and regional trends, enabling users to:
-
-- Explore asking and sold prices by district, year, and property features.
-- Identify key drivers of property prices.
-- Analyze housing trends in relation to school quality and location.
-- Drill down into individual districts and property listings.
-
 ---
 
 ## Features
@@ -68,7 +57,7 @@ A Power BI dashboard for exploring and analyzing the London housing market, focu
 
 ---
 
-## Screenshots of the Report
+## Screenshots
 
 The report comprises four primary sections as below.
 
