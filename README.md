@@ -95,7 +95,7 @@ The report comprises four primary sections as below.
 ## Data Sources
 
 > **Note:**  
-> All datasets used in this project are synthetic, created to mimic real-world patterns for educational and analytical demonstration only. No real personal, commercial, or sensitive data is included.
+> All [datasets](https://raw.githubusercontent.com/cckmwong-data/london_housing/main/dataset/housing_data.xlsx) used in this project are synthetic, created to mimic real-world patterns for educational and analytical demonstration only. No real personal, commercial, or sensitive data is included.
 
 - Synthetic housing data generated for analysis and demonstration purposes
 - Synthetic Ofsted school ratings and metrics
