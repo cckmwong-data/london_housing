@@ -30,22 +30,12 @@ An interactive Power BI dashboard for analyzing the London housing market, allow
 
 ## Use Case
 > **Disclaimer:**  
-> *This dashboard uses synthetic data. All statistics, trends, and insights are for demonstration and educational purposes only and do not reflect actual London housing market conditions.*
+> *This project uses synthetic data. All statistics, trends, and insights are for demonstration and educational purposes only and do not reflect actual London housing market conditions.*
 
 This is a report designed for London Real Insights Ltd., a real estate agency based in London. 
 
 It provides management with a comprehensive view of property listings across various districts in the city. Users can filter listings based on specific criteria, including property price, house features, and schools in the neighborhood. Additionally, the report shows how asking prices vary across different property features and also highlights key factors which influence home valuations in London. 
 
----
-
-## Key Insights
-
-- **Living area**, **year built** and **number of patios/porches** are strong drivers of asking prices.
-- Older homes (built ≤1957) can command premiums in some segments.
-- School quality and proximity are significant for certain districts, such as Harrow and Kingston upon Thames.
-- Districts like Kensington and Chelsea, Westminster, and City of London have the highest average asking prices.
-- Historical price trends reveal steady growth with cyclical fluctuations.
-  
 ---
 
 ## Features
@@ -61,19 +51,14 @@ It provides management with a comprehensive view of property listings across var
 
 ---
 
-## Screenshots
+## Key Insights
 
-The report comprises four primary sections as below.
-
-### Dashboard 
-![](images/dashboard.png)
-### Listings
-![](images/listings.png)
-### Schools Analystics
-![](images/schools.png)
-### Feature-Price Analysis
-![](images/analysis.png)
-
+- **Living area**, **year built** and **number of patios/porches** are strong drivers of asking prices.
+- Older homes (built ≤1957) can command premiums in some segments.
+- School quality and proximity are significant for certain districts, such as Harrow and Kingston upon Thames.
+- Districts like Kensington and Chelsea, Westminster, and City of London have the highest average asking prices.
+- Historical price trends reveal steady growth with cyclical fluctuations.
+  
 ---
 
 ## Workflow Overview
@@ -90,6 +75,21 @@ The report comprises four primary sections as below.
    - Use the outlier exclusion toggle for robust statistics.
    - Ask AI-powered questions for instant insights.
    
+---
+
+## Screenshots
+
+The report comprises four primary sections as below.
+
+### Dashboard 
+![](images/dashboard.png)
+### Listings
+![](images/listings.png)
+### Schools Analystics
+![](images/schools.png)
+### Feature-Price Analysis
+![](images/analysis.png)
+
 ---
 
 ## Data Sources
