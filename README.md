@@ -2,6 +2,8 @@
 
 An interactive Power BI dashboard for analyzing the London housing market, allowing users to explore property prices, features, school quality, and district-level trends.
 
+<img src="./images/cover.png" width="" height="500">
+
 ---
 
 ## Skills Demonstrated
