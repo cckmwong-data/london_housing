@@ -82,10 +82,12 @@ The report comprises four primary sections as below.
 ![](images/dashboard.png)
 ### Listings
 ![](images/listings.png)
+### Drillthrough on District(s)
+![](images/drill.png)
 ### Schools Analystics
 ![](images/schools.png)
 ### Market Analysis
-Note: AI-power visual such as Key Influencers cannot be displayed in public link due to the limitations of Free Tier for Power BI. Please check the below screenshot or PDF for reference.
+Note: AI-power visuals such as Key Influencers are disabled in public link due to the limitations of Free Tier for Power BI. Please check the below screenshot or PDF for reference.
 
 ![](images/market.png)
 
