@@ -1,6 +1,6 @@
 # Intelligence Report on London Real Estate
 
-An interactive Power BI dashboard for analyzing the London housing market, allowing users to explore property prices, features, school quality, and district-level trends.
+An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWEwNWFiNDEtYTY4Yi00NzAwLThmZDgtNWYwYmY1OGJiMzg3IiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) for analyzing the London housing market, allowing users to explore property prices, features, school quality, and district-level trends.
 
 <img src="./images/cover.png" width="" height="500">
 
