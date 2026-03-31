@@ -87,7 +87,7 @@ The report comprises four primary sections as below.
 ### Schools Analystics
 ![](images/school.png)
 ### Market Analysis
-***Note: AI-power visuals such as Key Influencers are disabled in public link due to the limitations of Free Tier for Power BI. Please check the below screenshot for reference.***
+***Note: The "Key Influencers" visual is unavailable in the public link due to Power BI Free Tier limitations. Please refer to the screenshot below for a preview of these insights.***
 
 ![](images/market.png)
 
