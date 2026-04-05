@@ -54,7 +54,7 @@ It provides management with a comprehensive view of property listings across var
 
 - High-performing school districts (Ofsted "Outstanding") directly correlate with listing density and price stability. For example, Harrow emerged as a top-tier "value" district, boasting the highest volume of listings (506) near Outstanding schools. 
 - Highest asking prices concentrated in the centre (e.g. Kensington and Chelsea, Westminster, and City of London) and the most affordable options found on the outskirts.
-- Despite short-term volatility, the 20-year trend line confirms London’s status as a resilient "safe haven" for capital, with consistent recovery patterns following the 2008 and 2020 economic shocks.
+- Despite short-term volatility, the 20-year trend line confirms London’s status as a resilient "safe haven" for capital, with consistent recovery patterns following the economic shocks in the 2008 financial crisis and the 2020 pandemic.
 - Natural Language Processing (NLP) on property descriptions reveals that "Large" "Backyard" and "Family" are the most frequent keywords, signaling a permanent shift in buyer priority toward square footage and outdoor space and family-friendliness.
   
 ---
