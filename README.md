@@ -18,12 +18,12 @@ An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTExN
 <img src="./images/star.png" width="" height="500">
 
 ✔ **Analytical Insight & Storytelling**
-- Identified price drivers using Key Influencers.
+- Analyze property listings across different districts from the perspectives of pricing trends, nearby schools and property features.
 - Modeled YoY (year-on-year) and QoQ (quarter-on-quarter) pricing trends and compared districts against national medians.
 - Highlighted school rating effects and district-level valuation behaviors.
 
 ✔ **User Experience & Interaction**
-- Enabled drillthrough, hover tooltips, and Q&A natural language queries.
+- Enabled drillthrough and hover tooltips.
 - Implemented a comprehensive filter pane with numeric sliders, dropdowns, and school-related filters.
 
 <img src="./images/filter_pane.png" width="" height="500">
@@ -36,15 +36,14 @@ An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTExN
 
 This is a report designed for London Real Insights Ltd., a hypothetical real estate agency based in London.
 
-It provides management with a comprehensive view of property listings across various districts in the city. Users can filter listings based on specific criteria, including property price, house features, and schools in the neighborhood. Additionally, the report highlights key factors which influence home valuations in London. 
+It provides management with a comprehensive view of property listings across various districts in the city. Users can filter listings based on specific criteria, including property price, house features, and schools in the neighborhood. 
 
 ---
 
 ## Features
 
 - **Dashboard**: View total listings, median asking prices, average property sizes, and school ratings.
-- **District Heatmaps**: Visualize asking and sold prices across London districts.
-- **AI-powered Visual**: Show which property features most influence asking price using AI-powered key influencer visuals.
+- **District Heatmaps**: Visualize asking and sold prices (via drillthrough) across London districts.
 - **School Analytics**: Map property listings by proximity to schools, Ofsted ratings, school size, and class size.
 - **Listings Explorer**: Browse listings by district, location, and feature word clouds.
 - **Market Trends**: Track historical price trends, growth rates, and compare district prices to national medians.
@@ -53,10 +52,10 @@ It provides management with a comprehensive view of property listings across var
 
 ## Key Insights
 
-- **Living area**, **year built** and **number of patios/porches** are strong drivers of asking prices.
-- School quality and proximity are significant for certain districts, such as Harrow and Kingston upon Thames.
-- Highest asking prices concentrated in the center (e.g. Kensington and Chelsea, Westminster, and City of London) and the most affordable options found on the outskirts.
-- Historical price trends reveal steady growth with cyclical fluctuations.
+- High-performing school districts (Ofsted "Outstanding") directly correlate with listing density and price stability. For example, Harrow emerged as a top-tier "value" district, boasting the highest volume of listings (506) near Outstanding schools. 
+- Highest asking prices concentrated in the centre (e.g. Kensington and Chelsea, Westminster, and City of London) and the most affordable options found on the outskirts.
+- Despite short-term volatility, the 20-year trend line confirms London’s status as a resilient "safe haven" for capital, with consistent recovery patterns following the 2008 and 2020 economic shocks.
+- Natural Language Processing (NLP) on property descriptions reveals that "Large" "Backyard" and "Family" are the most frequent keywords, signaling a permanent shift in buyer priority toward square footage and outdoor space and family-friendliness.
   
 ---
 
@@ -67,7 +66,7 @@ It provides management with a comprehensive view of property listings across var
    - **Summary (Dashboard)**: Market snapshot and key figures.
    - **Listings**: Average prices, property locations, and feature word clouds.
    - **Schools**: Listings by school rating, size, and proximity.
-   - **Market**: Trends of the property price by districts and comparison to the national median; key drivers of property prices.
+   - **Market**: Trends of the property price by districts and comparison to the national median.
 3. **Interact with filters and slicers** to customize your analysis:
    - Filter by year, district, home type, or features.
    - Use the outlier exclusion toggle for robust statistics.
@@ -87,8 +86,6 @@ The report comprises four primary sections as below.
 ### Schools Analystics
 ![](images/school.png)
 ### Market Analysis
-***Note: The "Key Influencers" visual is unavailable in the public link due to Power BI Free Tier limitations. Please refer to the screenshot below for a preview of these insights.***
-
 ![](images/market.png)
 
 ---
