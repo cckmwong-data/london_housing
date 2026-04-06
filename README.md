@@ -9,7 +9,7 @@ An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDJiM
 ## Skills Demonstrated
 ✔ **Business Intelligence & Visualization**
 - Designed multi-page dashboards with clear navigation, drillthrough, and interactive filtering.
-- Built geospatial maps, heatmaps, word clouds and trend analysis to support market insights.
+- Built geospatial maps, heatmap, word clouds and trend analysis to support market insights.
 
 ✔ **Data Modeling & Semantic Layer**
 - Developed a *star schema* with fact and dimension tables.
