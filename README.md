@@ -1,6 +1,6 @@
 # Intelligence Report on London Real Estate
 
-An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTExNjU5MTgtYmEyZi00OGZjLWIyNTgtNWNjYjg4Mzg5YTZhIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) for analyzing the London housing market, allowing users to explore property prices, features, school quality, and district-level trends.
+An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTliY2U5ZDUtMmUwZC00NTBjLThjNWItZTg2MWNjODg5YzFhIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) for analyzing the London housing market, allowing users to explore property prices, features, school quality, and district-level trends.
 
 <img src="./images/cover.png" width="" height="500">
 
@@ -61,7 +61,7 @@ It provides management with a comprehensive view of property listings across var
 
 ## Workflow Overview
 
-1. **Access Power BI report online** [here](https://app.powerbi.com/view?r=eyJrIjoiYTExNjU5MTgtYmEyZi00OGZjLWIyNTgtNWNjYjg4Mzg5YTZhIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
+1. **Access Power BI report online** [here](https://app.powerbi.com/view?r=eyJrIjoiOTliY2U5ZDUtMmUwZC00NTBjLThjNWItZTg2MWNjODg5YzFhIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
 2. **Navigate via the sidebar or the homepage** to explore:
    - **Summary (Dashboard)**: Market snapshot and key figures.
    - **Listings**: Average prices, property locations, and feature word clouds.
