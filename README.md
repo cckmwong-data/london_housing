@@ -1,6 +1,6 @@
 # Intelligence Report on London Real Estate
 
-An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTliY2U5ZDUtMmUwZC00NTBjLThjNWItZTg2MWNjODg5YzFhIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) for analyzing the London housing market, allowing users to explore property prices, features, school quality, and district-level trends.
+An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDYyMDY3ZmQtOTk0Zi00Mzk5LWI3YmQtYTQ3NTY1NmM1NTg5IiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) for analyzing the London housing market, allowing users to explore property prices, features, school quality, and district-level trends.
 
 <img src="./images/cover.png" width="" height="500">
 
@@ -41,7 +41,7 @@ It provides management of the Company with a comprehensive view of property list
 
 ## Features
 
-- **Dashboard**: View total listings, median asking prices, average property sizes, and school ratings.
+- **Dashboard**: Synthesized listings into high-level KPIs, including median asking prices, normalized property dimensions, and aggregated school performance.
 - **District Heatmaps**: Visualize asking and sold prices (via drillthrough) across London districts.
 - **School Analytics**: Map property listings by proximity to schools, Ofsted ratings, school size, and class size.
 - **Listings Explorer**: Browse listings by district, location, and feature word clouds.
@@ -60,7 +60,7 @@ It provides management of the Company with a comprehensive view of property list
 
 ## Workflow Overview
 
-1. **Access Power BI report online** [here](https://app.powerbi.com/view?r=eyJrIjoiOTliY2U5ZDUtMmUwZC00NTBjLThjNWItZTg2MWNjODg5YzFhIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
+1. **Access Power BI report online** [here](https://app.powerbi.com/view?r=eyJrIjoiZDYyMDY3ZmQtOTk0Zi00Mzk5LWI3YmQtYTQ3NTY1NmM1NTg5IiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
 2. **Navigate via the sidebar or the homepage** to explore:
    - **Summary (Dashboard)**: Market snapshot and key figures.
    - **Listings**: Average prices, property locations, and feature word clouds.
