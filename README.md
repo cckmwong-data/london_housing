@@ -81,7 +81,7 @@ The report comprises four primary sections as below.
 ![](images/dashboard.png)
 ### Listings
 ![](images/listings.png)
-### Drillthrough on District(s)
+### Drillthrough on Seleteced District
 ![](images/drill.png)
 ### Schools Analystics
 ![](images/school.png)
