@@ -22,10 +22,7 @@ An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDYyM
 - Modeled YoY (year-on-year) and QoQ (quarter-on-quarter) pricing trends and compared districts against the national median.
 
 ✔ **User Experience & Interaction**
-- Enabled drillthrough and hover tooltips.
-
- ![](images/drill.png)
- 
+- Enabled drillthrough and hover tooltips. 
 - Implemented a comprehensive filter pane with numeric sliders, dropdowns, and school-related filters.
 
 <img src="./images/filter_pane.png" width="" height="500">
@@ -53,7 +50,7 @@ It provides management of the Company with a comprehensive view of property list
 - **Listings Explorer**: A breakdown of listings by district, location, sizes and feature word clouds.
 
 ![](images/listings.png)
-- **Market Trends**: Track historical price trends, growth rates, and compare district prices to national medians.
+- **Market Trends**: Track historical price trends, growth rates, and compare district prices to national medians. Identify the Top 10 highest-value districts by price per square foot.
 
 ![](images/market.png)
 
