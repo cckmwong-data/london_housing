@@ -23,6 +23,9 @@ An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDYyM
 
 ✔ **User Experience & Interaction**
 - Enabled drillthrough and hover tooltips.
+
+ ![](images/drill.png)
+ 
 - Implemented a comprehensive filter pane with numeric sliders, dropdowns, and school-related filters.
 
 <img src="./images/filter_pane.png" width="" height="500">
@@ -44,9 +47,8 @@ It provides management of the Company with a comprehensive view of property list
 - **Dashboard**: Synthesized listings into high-level KPIs, including median asking prices, normalized property dimensions, and aggregated school performance.
 
  ![](images/dashboard.png)
-
 - **School Analytics**: Map property listings by proximity to schools, Ofsted ratings, school size, and class size.
-- 
+
 ![](images/school.png)
 - **Listings Explorer**: A breakdown of listings by district, location, sizes and feature word clouds.
 
@@ -54,6 +56,7 @@ It provides management of the Company with a comprehensive view of property list
 - **Market Trends**: Track historical price trends, growth rates, and compare district prices to national medians.
 
 ![](images/market.png)
+
 ---
 
 ## Key Insights
