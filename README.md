@@ -74,7 +74,7 @@ It provides management of the Company with a comprehensive view of property list
    - **Schools**: Listings by school rating, size, and proximity.
    - **Market**: Trends of the property price by districts and comparison to the national median.
 3. **Interact with filters and slicers** to customize the analysis:
-   - Filter by property prices, year built, district, home type, or features.
+   - Filter by property price, year built, district, home type, or features.
   
 ---
 
