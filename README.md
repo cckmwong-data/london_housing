@@ -35,7 +35,7 @@ An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTliY
 
 This is a report designed for London Real Insights Ltd., a hypothetical real estate agency based in London.
 
-It provides management with a comprehensive view of property listings across various districts in the city. Users can filter listings based on specific criteria, including property price, house features, and schools in the neighborhood. 
+It provides management of the Company with a comprehensive view of property listings across various districts in the city. Users can filter listings based on specific criteria, including property price, house features, and schools in the neighborhood. 
 
 ---
 
