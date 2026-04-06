@@ -1,6 +1,6 @@
 # Intelligence Report on London Real Estate
 
-An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDYyMDY3ZmQtOTk0Zi00Mzk5LWI3YmQtYTQ3NTY1NmM1NTg5IiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) for analyzing the London housing market, allowing users to explore property prices, features, school quality, and district-level trends.
+An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDJiMjg1MTktYWE2Yy00NGY2LWI3ZWQtMTU4MjgxZmNhNGY0IiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) for analyzing the London housing market, allowing users to explore property prices, features, school quality, and district-level trends.
 
 <img src="./images/cover.png" width="" height="500">
 
@@ -56,27 +56,26 @@ It provides management of the Company with a comprehensive view of property list
 
 ---
 
-## Key Insights
+## Key Business Insights
 
-- High-performing school districts (Ofsted "Outstanding") directly correlate with listing density and price stability. For example, Harrow emerged as a top-tier "value" district, boasting the highest volume of listings (506) near Outstanding schools. 
+- High-performing school districts (Ofsted "Outstanding") directly correlate with listing density and price stability. For instance, Harrow emerged as a top-tier "value" district, boasting the highest volume of listings (506) near Outstanding schools. 
 - Highest asking prices concentrated in the centre (e.g. Kensington and Chelsea, Westminster, and City of London) and the most affordable options found on the outskirts.
 - Despite short-term volatility, the 20-year trend line confirms London’s status as a resilient "safe haven" for capital, with consistent recovery patterns following the economic shocks in the 2008 financial crisis and the 2020 pandemic.
-- Natural Language Processing (NLP) on property descriptions reveals that "Large" "Backyard" and "Family" are the most frequent keywords, signaling a permanent shift in buyer priority toward square footage and outdoor space and family-friendliness.
+- Natural Language Processing (NLP) on property descriptions reveals that "Large" "Backyard" and "Family" are the most frequent keywords, signaling a permanent shift in buyer priorities toward square footage and outdoor space and family-friendliness.
   
 ---
 
 ## Workflow Overview
 
-1. **Access Power BI report online** [here](https://app.powerbi.com/view?r=eyJrIjoiZDYyMDY3ZmQtOTk0Zi00Mzk5LWI3YmQtYTQ3NTY1NmM1NTg5IiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
+1. **Access Power BI report online** [here](https://app.powerbi.com/view?r=eyJrIjoiNDJiMjg1MTktYWE2Yy00NGY2LWI3ZWQtMTU4MjgxZmNhNGY0IiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
 2. **Navigate via the sidebar or the homepage** to explore:
-   - **Summary (Dashboard)**: Market snapshot and key figures.
-   - **Listings**: Average prices, property locations, and feature word clouds.
+   - **Summary (Dashboard)**: Market snapshot and KPIs.
+   - **Listings**: Average prices, property locations, and feature word clouds. Drill through market data of the selected district.
    - **Schools**: Listings by school rating, size, and proximity.
    - **Market**: Trends of the property price by districts and comparison to the national median.
-3. **Interact with filters and slicers** to customize your analysis:
-   - Filter by year, district, home type, or features.
-   - Use the outlier exclusion toggle for robust statistics.
-   
+3. **Interact with filters and slicers** to customize the analysis:
+   - Filter by property prices, year built, district, home type, or features.
+  
 ---
 
 ## Data Sources
