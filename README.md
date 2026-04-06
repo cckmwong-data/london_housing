@@ -42,11 +42,18 @@ It provides management of the Company with a comprehensive view of property list
 ## Features
 
 - **Dashboard**: Synthesized listings into high-level KPIs, including median asking prices, normalized property dimensions, and aggregated school performance.
-- **District Heatmaps**: Visualize asking and sold prices (via drillthrough) across London districts.
+
+ ![](images/dashboard.png)
+
 - **School Analytics**: Map property listings by proximity to schools, Ofsted ratings, school size, and class size.
-- **Listings Explorer**: Browse listings by district, location, and feature word clouds.
+- 
+![](images/school.png)
+- **Listings Explorer**: A breakdown of listings by district, location, sizes and feature word clouds.
+
+![](images/listings.png)
 - **Market Trends**: Track historical price trends, growth rates, and compare district prices to national medians.
 
+![](images/market.png)
 ---
 
 ## Key Insights
@@ -70,23 +77,6 @@ It provides management of the Company with a comprehensive view of property list
    - Filter by year, district, home type, or features.
    - Use the outlier exclusion toggle for robust statistics.
    
----
-
-## Screenshots
-
-The report comprises four primary sections as below.
-
-### Dashboard 
-![](images/dashboard.png)
-### Listings
-![](images/listings.png)
-### Drillthrough on Seleteced District
-![](images/drill.png)
-### Schools Analystics
-![](images/school.png)
-### Market Analysis
-![](images/market.png)
-
 ---
 
 ## Data Sources
