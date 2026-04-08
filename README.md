@@ -18,7 +18,7 @@ An interactive [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDJiM
 <img src="./images/star.png" width="" height="500">
 
 ✔ **Analytical Insight & Storytelling**
-- Analyzed property listings across different districts from the perspectives of pricing trends, nearby schools ratings and property features.
+- Analyzed property listings across different districts from the perspectives of pricing trends, schools ratings and property features.
 - Modeled YoY (year-on-year) and QoQ (quarter-on-quarter) pricing trends and compared districts against the national median.
 
 ✔ **User Experience & Interaction**
